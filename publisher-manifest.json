@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "30dc3d1d8dc9485e5bf4b5bf",
+  "owner": "peyrdlgj",
+  "repo": "page-02fa81984410732ef46fbd3f",
+  "title": "天梯云(TantiVpn)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "02fa81984410732ef46fbd3f",
+      "a": "天梯云(TantiVpn)",
+      "b": "2027最新官网",
+      "entity": "天梯云(TantiVpn)",
+      "brand": "天梯云(TantiVpn)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af526982f92f02db4703d9338a83997b5e5097603bf1b06f3d2084869c278370",
+      "content": {
+        "primary_entity": "天梯云(TantiVpn)",
+        "keyword1": "天梯云(TantiVpn)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，电脑、手机、平板与路由器各有对应方案，配置前先确认系统版本与网络环境。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置天梯云",
+          "AI_DESCRIPTION": "，三档套餐覆盖从个人到团队的用量，基础版每月100GB流量供3台设备使用，旗舰版每月300GB并支持5台设备同时在线，加入IPLC专线游戏加速与流媒体解锁，团队版每月1000GB流量可挂20台设备。客户端按电脑、手机、平板与路由器分别选择，结合系统版本与订阅周期完成配置。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期，梳理天梯云的三个实际关注点。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB/3台、旗舰版300GB/5台、团队版1000GB/20台，按每月用量与在线设备数对号入座。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供IPLC专线游戏加速与全节点原生流媒体解锁，团队版配置VIP专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用优先考虑年付周期。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "进阶权益差异",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "从挑选套餐到完成订阅配置，按三步推进。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "天梯云提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB到1000GB流量，支持3至20台设备同时在线，并按电脑、手机、平板与路由器分别提供客户端订阅配置方案。",
+          "AI_HERO_SUBTITLE": "多设备订阅配置清晰",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付价格低于月付累计",
+          "AI_PLANS_INTRO": "基础版适合轻量个人使用，旗舰版兼顾游戏加速与流媒体，团队版面向多设备与高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照每月流量与常用设备数，在基础版、旗舰版、团队版之间确定适合的档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与节点权益，确认电脑、手机或路由器等目标设备满足适配要求。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，将订阅信息导入所选软件并完成基础配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "天梯云套餐与设备配置",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合手机加笔记本两台设备日常使用；若同时用平板或电视，旗舰版 5 台设备更宽裕。",
+          "AI_FAQ_ANSWER_2": "年付比月付划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先考虑按年订阅。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中新建订阅，粘贴服务提供的订阅链接，更新后选择节点连接。不同客户端菜单名称略有差异，参照所用客户端文档操作。",
+          "AI_FAQ_ANSWER_4": "旗舰版适配 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，对延迟和带宽有更高要求时可选这两档。",
+          "AI_FAQ_ANSWER_5": "可以在旧设备退出登录或停止客户端连接，再在新设备导入订阅，即可把在线名额换到新设备使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "每月 100GB 够用吗，适合几台设备？",
+          "AI_FAQ_QUESTION_2": "按年付比按月付便宜多少？",
+          "AI_FAQ_QUESTION_3": "怎么把订阅导入客户端？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合游戏加速和流媒体？",
+          "AI_FAQ_QUESTION_5": "换设备后原来的设备还能用吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rhlhrp.cn",
+    "host": "rhlhrp.cn"
+  },
+  "file_hashes": {
+    "index.html": "bc4634040a8d0b650e4d7055e7733e04484542a6f0e2a866c85e0bcfb61bb925",
+    "sitemap.xml": "0281dc9e0188233ff6ebfd6d78161f119fa897ffcb7fd9d84bac0b336fdca4fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d1a3c63af104a9fcfd75b2d1d612ee9d8686e5aad69efa3cc930171182d995d4",
+    "robots.txt": "d644dae2a401319c7a88aaa09f546bfb43ada59d4fe14a93ff69c090498f599e",
+    "01d218e246e00902d7b2d1beb977c307.txt": "f00395f604f22c858e2ba5424865a0ffda4c5a061d59ec9f62e7ddc52175fba4"
+  },
+  "revision": "2046f65c0029fc53969c627bd6c3ca416ddc49a1489734842a39612c8435947c"
+}
